@@ -1,10 +1,10 @@
 <title>Meu portfólio</title>
 
-avatar de JUNIOR
+avatar de TIAGO
 
-avatar de JUINOR
+avatar de TIAGO
 
-Eu sou JUNIOR_
+Eu sou TIAGO_
 
 Eu ensino Programação
 Sou Engenheiro de Computação e programo códigos para grandes empresas de tecnologia, softwares e TI, e-commerce, consultoria, inovação e tecnologia...
