@@ -1,10 +1,10 @@
 <title>Meu portfólio</title>
 
-avatar de JUNIOR
+avatar de TIAGO
 
-avatar de JUINOR
+avatar de TIAGO
 
-Eu sou JUNIOR_
+Eu sou TIAGO_
 
 Eu ensino Programação
 Sou Engenheiro de Computação e programo códigos para grandes empresas de tecnologia, softwares e TI, e-commerce, consultoria, inovação e tecnologia...
@@ -34,7 +34,7 @@ Objetivo Final: O projeto visa proporcionar uma ferramenta prática e eficiente 
 
 Entre em contato
 GitHub
-00001113983589sp@al.educacao.sp.gov.br 2025. Produzido por Junior cesar
+00001113983589sp@al.educacao.sp.gov.br 2025. Produzido por TIAGO ORIGO
 
 Link do slide das plataformas
 https://prezi.com/p/edit/l34v9gnzppv7/#ai-flow/details
